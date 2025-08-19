@@ -1,184 +1,343 @@
-,disct,city_district,address,species,year,Common name,Type,Growth,age,survival,carbon_seq,lat,lon
-0,1,1,"4908 Hollywood Rd, College Park MD",Willow Oak,2023,Willow Oak,H,M,2,0.736,12.844999999999999,39.0108709,-76.9236091
-1,1,1,"4822 Erie Street, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0059656,-76.9259366
-2,1,1,"5017 Laguna Road, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0122051,-76.9199811
-3,3,3,"5911 Bryn Mawr Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9848226,-76.9110861
-4,4,4,"9116 Saint Andrews Pl , College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,39.005792,-76.9479915
-5,4,4,"9237 Limestone Pl, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0090052,-76.9485978
-6,4,4,"9259 Limestone Place, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0104,-76.9504424
-7,1,1,"5121 Kenesaw St, College Park MD",Willow Oak,2023,Willow Oak,H,M,2,0.736,12.844999999999999,39.0076884,-76.9179343
-8,1,1,"4908 Hollywood Rd, College Park MD",Willow Oak,2023,Willow Oak,H,M,2,0.736,12.844999999999999,39.0108709,-76.9236091
-9,4,4,"3711 Marlbrough Way, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0098803,-76.95448
-10,1,1,"4806 Lackawanna St, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0126646,-76.9253216
-11,1,1,"9605 52nd Ave, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0081188,-76.9166068
-12,3,3,"7104 Rhode Island Ave, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,38.9766772,-76.9336061
-13,3,3,"4805 Calvert Road, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,38.9782294,-76.9305842
-14,2,2,"8511 48th Ave, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,38.9951039,-76.9299196
-15,1,1,"9629 52nd Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0100295,-76.9151745
-16,3,3,"7609 Wellesley Dr, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,38.9851777,-76.9153698
-17,2,2,"5114 Navahoe St, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9904591,-76.9259429
-18,3,3,"7511 Princeton Ave, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,38.982387,-76.9341209
-19,3,3,"7602 Wellesley Dr, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9842564,-76.9150591
-20,1,1,"5219 Edgewood Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0158938,-76.9134173
-21,2,2,"8302 49th Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,38.9923608,-76.9279166
-22,1,1,"5017 Laguna Rd, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0122051,-76.9199811
-23,2,2,"8504 48th Ave, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9949943,-76.9303878
-24,3,3,"6909 Dartmouth Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,38.9747482,-76.9319276
-25,1,1,"5017 Fox St, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0057183,-76.9214423
-26,1,1,"5031 Laguna Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.011973,-76.9187569
-27,2,2,"9205 50th Pl, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0032567,-76.9229034
-28,3,3,"7014 Wake Forest Dr, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,38.9769015,-76.9363839
-29,2,2,"9020 50th Pl, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0013089,-76.9239034
-30,1,1,"4811 Indian La, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0083857,-76.9267446
-31,3,3,"7010  Wake Forest Dr, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,38.9765529,-76.9363472
-32,1,1,"9012 Autoville Dr, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0023501,-76.9327135
-33,1,1,"5025 Muskogee St, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0128472,-76.9190955
-34,1,1,"9614 51st Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0109829,-76.9193323
-35,1,1,"9521 48th Place, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0099322,-76.9255311
-36,1,1,"9612 51st Ave, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0107837,-76.9192367
-37,4,4,"3504 DePauw Place, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,39.0065389,-76.9465289
-38,1,1,"4908 Fox St, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0067152,-76.9246376
-39,3,3,"4607 Drexel Rd, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,38.9752314,-76.934943
-40,4,4,"9201 Davidson St, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0079161,-76.9507558
-41,1,1,"4808 Laguna Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0132543,-76.9240045
-42,1,1,"9733 51st Place, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0134664,-76.9159706
-43,2,2,"5920 Quebec St, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9936429,-76.9264822
-44,1,1,"4913 Lackawanna St, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0118284,-76.9225218
-45,2,2,"5008 Quebec St, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,38.9937248,-76.9259373
-46,1,1,"5109 Iroquois St, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0072536,-76.9189937
-47,1,1,"5106 Lackawanna St, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.0114926,-76.9180111
-48,1,1,"9735 53rd Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0130267,-76.9130591
-49,1,1,"9710 Rhode Is Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0129703,-76.9221183
-50,1,1,"4904 Erie St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.005673,-76.9252625
-51,2,2,"8323 Rhode Island Ave, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9917361,-76.9272574
-52,2,2,"8810 49th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9980231,-76.9273517
-53,2,2,"4707 Indian La, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0084665,-76.9282046
-54,3,3,"6903 Carleton Terrace, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9744872,-76.9371053
-55,3,3,"4619 Fordham Rd, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9759387,-76.9337173
-56,3,3,"4811 Harvard Rd, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9772385,-76.9303795
-57,3,3,"7402 Sweetbriar Dr, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.9821989,-76.9138288
-58,3,3,"7602 Wellesley Dr, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9842564,-76.9150591
-59,3,3,"4608 Drexel Rd, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.975622,-76.9346884
-60,3,3,"4800 Erskine Rd, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9758433,-76.931665
-61,3,3,"8302 49th Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9923608,-76.9279166
-62,3,3,"7500 Sweetbriar Dr, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9823233,-76.9152963
-63,4,4,"8310 48th Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9931401,-76.9306876
-64,4,4,"3535 Marlbrough Way, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,39.0107924,-76.9490881
-65,1,1,"4908 Hollywood Rd, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0108709,-76.9236091
-66,1,1,"5106 Lackawanna St, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0114926,-76.9180111
-67,1,1,"5014 Hollywood Rd, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,39.0101486,-76.919439
-68,1,1,"4904 Erie St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.005673,-76.9252625
-69,1,1,"5001 Kenesaw St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0085014,-76.9224344
-70,2,2,"8323 Rhode Island Ave, College Park MD",Pin Oak,2024,Pin Oak,H,F,1,0.798,14.68,38.9917361,-76.9272574
-71,2,2,"5012 Roanoke Place, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.9951548,-76.9246965
-72,3,3,"6903 Carleton Terrace, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9744872,-76.9371053
-73,3,3,"4811 Harvard Rd, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9772385,-76.9303795
-74,3,3,"8302 49th Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9923608,-76.9279166
-75,4,4,"8805 36th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0003184,-76.9478389
-76,2,2,"4811 Ruatan St, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9959994,-76.9287871
-77,4,4,"3739 Marlbrough Way, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0070392,-76.9535082
-78,4,4,"7321 Radcliffe Dr, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9790421,-76.9153971
-79,1,1,"9609 50th Place, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0108982,-76.9197947
-80,4,4,"3739 Marlbrough Way, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0070392,-76.9535082
-81,4,4,"7321 Radcliffe Dr, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9790421,-76.9153971
-82,1,1,"8611 Rhode Island Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9954897,-76.9260637
-83,1,1,"8709 48th Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9970737,-76.9291846
-84,1,1,"4713 Berwyn Rd, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9954209,-76.9303855
-85,1,1,"4908 Fox St, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0067152,-76.9246376
-86,1,1,"8302 Potomac Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9910144,-76.9275181
-87,1,1,"4817 Osage St, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9918444,-76.9293859
-88,1,1,"8803 Rhode Island Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9974015,-76.9254893
-89,1,1,"9519 48th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.009782,-76.9265608
-90,1,1,"9531 48th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0106002,-76.9263201
-91,1,1,"5012 Roanoke Pl, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9951548,-76.9246965
-92,1,1,"4811 Osage St, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9922126,-76.9298135
-93,2,2,"4822 Erie St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0059656,-76.9259366
-94,2,2,"9713 51st Pl, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.012065,-76.9162812
-95,2,2,"9743 53rd Avenue, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,39.013768,-76.913055
-96,2,2,"	5026 Laguna Rd, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.0124115,-76.9190261
-97,2,2,"	9726 52nd Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0128063,-76.9146186
-98,2,2,"	4516 Albion Road, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9720904,-76.9357553
-99,3,3,"4610 Amherst Rd, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9730608,-76.9347076
-100,3,3,"	4912 Blackfoot Rd, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,39.0009398,-76.9254089
-101,3,3,"5 Austin Ct, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0161039,-76.9330248
-102,3,3,"5000 Geronimo St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0069317,-76.9229432
-103,3,3,"7329 Radcliffe Dr, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9801711,-76.9148291
-104,3,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
-105,4,4,"	7207 Dartmouth Ave, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.97735,-76.9311876
-106,4,4,"7015 Wake Forest Dr, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9773033,-76.9358539
-107,1,1,"8611 Rhode Island Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9954897,-76.9260637
-108,1,1,"7314 Edmonston Rd, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9780601,-76.9134981
-109,1,1,"4713 Berwyn Rd, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.9954209,-76.9303855
-110,1,1,"4817 Osage St, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9918444,-76.9293859
-111,1,1,"8803 Rhode Island Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9974015,-76.9254893
-112,1,1,"9531 48th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0106002,-76.9263201
-113,2,2,"9713 51st Pl, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.012065,-76.9162812
-114,2,2,"8717 36th Ave, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9991662,-76.9477464
-115,2,2,"	9726 52nd Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0128063,-76.9146186
-116,2,2,"	9726 52nd Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0128063,-76.9146186
-117,2,2,"	4516 Albion Road, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9720904,-76.9357553
-118,2,2,"	4516 Albion Road, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9720904,-76.9357553
-119,3,3,"4610 Amherst Rd, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9730608,-76.9347076
-120,3,3,"5 Austin Ct, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0161039,-76.9330248
-121,3,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
-122,3,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
-123,3,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
-124,4,4,"7015 Wake Forest Dr, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9773033,-76.9358539
-125,1,1,"5202 Lackawanna St, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0108838,-76.9144518
-126,1,1,"4812 Blackfoot Rd, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0013138,-76.9278213
-127,1,1,"5003 Laguna Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0123957,-76.9211867
-128,1,1,"4807 Delaware St, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,39.0050527,-76.9282291
-129,1,1,"4912 Blackfoot Rd, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,39.0009398,-76.9254089
-130,1,1,"5026 Laguna Rd, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0124115,-76.9190261
-131,1,1,"9100 51st Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0016746,-76.922303
-132,2,2,"9014 Rhode Island Ave, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,39.000275,-76.9259608
-133,2,2,"4803 Ruatan St, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,38.9961658,-76.9295711
-134,2,2,"5108 Navahoe St, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,38.9902708,-76.9264981
-135,3,3,"6903 Carleton Terrace, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9744872,-76.9371053
-136,3,3,"6908 Wake Forest Dr, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,38.9751782,-76.9362749
-137,3,3,"7512 Creighton Dr, College Park MD",Hackberry,2025,Hackberry,H,F,0,0.873,9.909,38.9831705,-76.9119395
-138,3,3,"5805 Chestnut Hill Rd, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,38.984156,-76.9137088
-139,4,4,"8705 38th Ave, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,38.9992858,-76.9461769
-140,4,4,"3501 Wofford Ct, College Park MD",Willow Oak,2025,Willow Oak,H,M,0,0.873,6.973,39.0083439,-76.9499388
-141,1,1,"5022 Geronimo St, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0066084,-76.9209152
-142,1,1,"4812 Blackfoot Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0013138,-76.9278213
-143,1,1,"5003 Laguna Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0123957,-76.9211867
-144,1,1,"4807 Delaware St, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,39.0050527,-76.9282291
-145,2,2,"9014 Rhode Island Ave, College Park MD",Bur Oak,2025,Bur Oak,H,S,0,0.873,4.771,39.000275,-76.9259608
-146,2,2,"4803 Ruatan St, College Park MD",American Elm,2025,American Elm,H,F,0,0.873,9.909,38.9961658,-76.9295711
-147,2,2,"8314 Potomac Ave, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,38.9915472,-76.9266396
-148,3,3,"6903 Carleton Terrace, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9744872,-76.9371053
-149,3,3,"7512 Creighton Dr, College Park MD",American Basswood,2025,American Basswood,H,F,0,0.873,9.909,38.9831705,-76.9119395
-150,1,Disctrict 1,"9605 52nd Ave, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0081188,-76.9166068
-151,3,Disctrict 3,"4615 Clemson Rd, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,38.9743517,-76.9342391
-152,1,Disctrict 1,"5815 Bryn Mawr Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9851421,-76.9130058
-153,1,Disctrict 1,"7520 Creighton Dr, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,38.9839564,-76.9118442
-154,1,Disctrict 1,"9727 53rd Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.012495,-76.9132263
-155,1,Disctrict 1,"5113 Lackawanna St, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0108971,-76.9169529
-156,3,Disctrict 3,"4613 Amherst Rd, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,38.9725962,-76.9345377
-157,3,Disctrict 3,"7329 Radcliffe Dr, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,38.9801711,-76.9148291
-158,1,Disctrict 1,"9708 53rd Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0114136,-76.9140192
-159,1,Disctrict 1,"5807 Bryn Mawr Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9848628,-76.9139885
-160,1,Disctrict 1,"4806 Erie St, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0064869,-76.9276364
-161,3,Disctrict 3,"5904 Chestnut Hill Rd, College Park MD",Hackberry,2025,Hackberry,H,F,0,0.873,9.909,38.9845906,-76.9119123
-162,1,Disctrict 1,"9012 Autoville Drive, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0023501,-76.9327135
-163,1,Disctrict 1,"5037 Laguna Rd, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0118949,-76.9182313
-164,1,Disctrict 1,"4718 Muskogee St, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0140171,-76.9253197
-165,1,Disctrict 1,"9712 53rd Ave, College Park MD",Northern Catalpa,2025,Northern Catalpa,H,F,0,0.873,9.909,39.0116884,-76.9139448
-166,1,Disctrict 1,"5121 Kenesaw St, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0076884,-76.9179343
-167,1,Disctrict 1,"4802 Iroquois St, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0090538,-76.925533
-168,3,Disctrict 3,"7510 Columbia Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9810718,-76.9285963
-169,2,Disctrict 2,"9052 Rhode Island Ave, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0021495,-76.9249579
-170,1,Disctrict 1,"5117 Iroquois Street, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0070223,-76.9183505
-171,1,Disctrict 1,"4927 Hollywood Rd, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0101606,-76.9217359
-172,4,Disctrict 4,"9211 Wofford Lane, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0091368,-76.9503318
-173,1,Disctrict 1,"5006 Hollywood Rd, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0103205,-76.9205809
-174,1,Disctrict 1,"9724 53rd Avenue, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0125101,-76.9137219
-175,2,Disctrict 2,"8403 Patuxent Ave, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,38.9922661,-76.9269819
-176,1,Disctrict 1,"4704 Mangum Rd, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0154068,-76.9255967
-177,1,Disctrict 1,"5001 Indian Ln, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0055519,-76.9228199
-178,4,Disctrict 4,"3433 Duke St, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0028411,-76.9491154
-179,1,Disctrict 1,"4809 Indian Ln, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0084174,-76.9271266
-180,4,Disctrict 4,"8717 36th Ave, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,38.9991662,-76.9477464
-181,3,Disctrict 3,"6803 Rhode Island Ave, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,38.973451,-76.9334284
-182,3,Disctrict 3,"7307 Baylor Ave, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,38.9777054,-76.9143061
+,city_district,address,species,year,Common name,Type,Growth,age,survival,carbon_seq,lat,lon
+0,1,"5121 Kenesaw St, College Park MD",American Hornbeam,2023,,H,M,2,0.736,12.844999999999999,39.0076884,-76.9179343
+1,1,"4908 Hollywood Rd, College Park MD",Willow Oak,2023,Willow Oak,H,M,2,0.736,12.844999999999999,39.0108709,-76.9236091
+2,1,"4822 Erie Street, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0059656,-76.9259366
+3,1,"5017 Laguna Road, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0122051,-76.9199811
+4,1,"9118 Autoville Dr. , College Park MD",American Witch Hazel,2023,,H,M,2,0.736,12.844999999999999,39.0055419,-76.9319985
+5,2,"8302 49TH AVE, College Park MD",Bald Cypress,2023,,H,M,2,0.736,12.844999999999999,38.9923608,-76.9279166
+6,3,"4614 Amherst Rd, College Park MD",Catalpa,2023,,H,M,2,0.736,12.844999999999999,38.9730473,-76.9341956
+7,3,"7207 Rhode Island Ave, College Park MD",American Hornbeam,2023,,H,M,2,0.736,12.844999999999999,38.9776351,-76.9325714
+8,3,"5911 Bryn Mawr Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9848226,-76.9110861
+9,4,"9116 Saint Andrews Pl , College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,39.005792,-76.9479915
+10,4,"9237 Limestone Pl, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0090052,-76.9485978
+11,4,"9259 Limestone Place, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0104,-76.9504424
+12,4,"9209 Davidson St, College Park MD",Honey Locust,2023,,H,M,2,0.736,12.844999999999999,39.0086056,-76.9510932
+13,1,"5121 Kenesaw St, College Park MD",Willow Oak,2023,Willow Oak,H,M,2,0.736,12.844999999999999,39.0076884,-76.9179343
+14,1,"4908 Hollywood Rd, College Park MD",Willow Oak,2023,Willow Oak,H,M,2,0.736,12.844999999999999,39.0108709,-76.9236091
+15,3,"7512 Wellesley Dr, College Park MD",American Linden,2023,,H,M,2,0.736,12.844999999999999,38.9831116,-76.9148484
+16,4,"3711 Marlbrough Way, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0098803,-76.95448
+17,2,"4803 Ruatan St, College Park MD",Tulip Poplar,2023,,H,M,2,0.736,12.844999999999999,38.9961658,-76.9295711
+18,1,"4806 Lackawanna St, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0126646,-76.9253216
+19,1,"9815 52nd Pl, College Park MD",Tulip Poplar,2023,,H,M,2,0.736,12.844999999999999,39.0155417,-76.9134849
+20,3,"7508 Edmonston Rd, College Park MD",Sweetbay Magnolia,2023,,H,M,2,0.736,12.844999999999999,38.9821553,-76.9114474
+21,3,"7316 Edmonston Rd, College Park MD",Sweetbay Magnolia,2023,,H,M,2,0.736,12.844999999999999,38.9782761,-76.9135014
+22,1,"9605 52nd Ave, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0081188,-76.9166068
+23,3,"7104 Rhode Island Ave, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,38.9766772,-76.9336061
+24,3,"4805 Calvert Road, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,38.9782294,-76.9305842
+25,3,"7309 Princeton Ave, College Park MD",American Linden,2023,,H,M,2,0.736,12.844999999999999,38.9797868,-76.9352093
+26,2,"8511 48th Ave, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,38.9951039,-76.9299196
+27,1,"9629 52nd Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0100295,-76.9151745
+28,2,"5110 Pierce Ave, College Park MD",Sweetbay Magnolia,2023,,H,M,2,0.736,12.844999999999999,38.9873439,-76.9253892
+29,3,"7609 Wellesley Dr, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,38.9851777,-76.9153698
+30,2,"5114 Navahoe St, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9904591,-76.9259429
+31,4,"3730 Marlbrough Way, College Park MD",Sweetbay Magnolia,2023,,H,M,2,0.736,12.844999999999999,39.0080676,-76.9539342
+32,3,"7511 Princeton Ave, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,38.982387,-76.9341209
+33,3,"7602 Wellesley Dr, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9842564,-76.9150591
+34,1,"5219 Edgewood Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0158938,-76.9134173
+35,1,"9524 49th Ave, College Park MD",Hop Hornbeam,2023,,H,M,2,0.736,12.844999999999999,39.0101325,-76.9248699
+36,2,"8810 49th Ave, College Park MD",Hop Hornbeam,2023,,H,M,2,0.736,12.844999999999999,38.9980231,-76.9273517
+37,3,"7400 Dartmouth Ave, College Park MD",American Linden,2023,,H,M,2,0.736,12.844999999999999,38.9795065,-76.9310206
+38,2,"8302 49th Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,38.9923608,-76.9279166
+39,1,"5017 Laguna Rd, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0122051,-76.9199811
+40,2,"8504 48th Ave, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9949943,-76.9303878
+41,3,"6909 Dartmouth Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,38.9747482,-76.9319276
+42,1,"5017 Fox St, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0057183,-76.9214423
+43,1,"9708 51st Pl, College Park MD",Honey Locust,2023,,H,M,2,0.736,12.844999999999999,39.0120001,-76.9167797
+44,2,"5028 Branchville Rd, College Park MD",Hop Hornbeam,2023,,H,M,2,0.736,12.844999999999999,38.9992598,-76.9231594
+45,1,"5031 Laguna Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.011973,-76.9187569
+46,1,"4915 Lackawanna St, College Park MD",Honey Locust,2023,,H,M,2,0.736,12.844999999999999,39.011803,-76.9223702
+47,2,"9205 50th Pl, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0032567,-76.9229034
+48,3,"7014 Wake Forest Dr, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,38.9769015,-76.9363839
+49,2,"9020 50th Pl, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0013089,-76.9239034
+50,1,"4811 Indian La, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0083857,-76.9267446
+51,3,"7010  Wake Forest Dr, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,38.9765529,-76.9363472
+52,3,"4817 Guilford Rd, College Park MD",Sweetbay Magnolia,2023,,H,M,2,0.736,12.844999999999999,38.9761728,-76.9298976
+53,1,"9012 Autoville Dr, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0023501,-76.9327135
+54,1,"5025 Muskogee St, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0128472,-76.9190955
+55,2,"4910 Blackfoot Rd, College Park MD",Hop Hornbeam,2023,,H,M,2,0.736,12.844999999999999,39.0009984,-76.9256062
+56,1,"9614 51st Ave, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0109829,-76.9193323
+57,1,"9521 48th Place, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0099322,-76.9255311
+58,1,"9612 51st Ave, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0107837,-76.9192367
+59,4,"3504 DePauw Place, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,39.0065389,-76.9465289
+60,1,"5022 Laguna Rd, College Park MD",American Linden,2023,,H,M,2,0.736,12.844999999999999,39.0124686,-76.9193703
+61,1,"4908 Fox St, College Park MD",River Birch,2023,River Birch,H,M,2,0.736,12.844999999999999,39.0067152,-76.9246376
+62,2,"8800 49th Ave, College Park MD",American Linden,2023,,H,M,2,0.736,12.844999999999999,38.9973921,-76.9275566
+63,3,"4607 Drexel Rd, College Park MD",American Holly,2023,American Holly,H,S,2,0.736,7.34,38.9752314,-76.934943
+64,4,"9201 Davidson St, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0079161,-76.9507558
+65,1,"4808 Laguna Rd, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,39.0132543,-76.9240045
+66,1,"9733 51st Place, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,39.0134664,-76.9159706
+67,2,"5920 Quebec St, College Park MD",Southern Magnolia,2023,Southern Magnolia,H,M,2,0.736,12.844999999999999,38.9936429,-76.9264822
+68,1,"4913 Lackawanna St, College Park MD",White Oak,2023,White Oak,H,S,2,0.736,7.34,39.0118284,-76.9225218
+69,2,"5008 Quebec St, College Park MD",Red Maple,2023,Red Maple,H,M,2,0.736,12.844999999999999,38.9937248,-76.9259373
+70,1,"5109 Iroquois St, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0072536,-76.9189937
+71,1,"4908 Hollywood Rd, College Park MD",Beech,2024,,H,M,1,0.798,9.909,39.0108709,-76.9236091
+72,1,"4810 Lackawanna St, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,39.0125024,-76.924419
+73,1,"5106 Lackawanna St, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.0114926,-76.9180111
+74,1,"9735 53rd Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0130267,-76.9130591
+75,1,"5012 Hollywood Rd, College Park MD",Catalpa,2024,,H,M,1,0.798,9.909,39.0101972,-76.9196947
+76,1,"5014 Hollywood Rd, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.0101486,-76.919439
+77,1,"9710 Rhode Is Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0129703,-76.9221183
+78,1,"4904 Erie St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.005673,-76.9252625
+79,1,"5001 Kenesaw St, College Park MD",Prince Oak,2024,,H,M,1,0.798,9.909,39.0085014,-76.9224344
+80,2,"8323 Rhode Island Ave, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9917361,-76.9272574
+81,2,"5012 Roanoke Place, College Park MD",Bald Cypress,2024,,H,M,1,0.798,9.909,38.9951548,-76.9246965
+82,2,"8810 49th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9980231,-76.9273517
+83,2,"4707 Indian La, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0084665,-76.9282046
+84,2,"5020 Quebec St, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,38.9934833,-76.9247556
+85,3,"4511 Amherst Rd, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,38.9727015,-76.9363884
+86,3,"7207 Rhode Is Ave, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,38.9776351,-76.9325714
+87,3,"6903 Carleton Terrace, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9744872,-76.9371053
+88,3,"4607 Drexel Road, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,38.9752314,-76.934943
+89,3,"4619 Fordham Rd, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9759387,-76.9337173
+90,3,"4811 Harvard Rd, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9772385,-76.9303795
+91,3,"7402 Sweetbriar Dr, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.9821989,-76.9138288
+92,3,"7602 Wellesley Dr, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9842564,-76.9150591
+93,3,"4608 Drexel Rd, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.975622,-76.9346884
+94,3,"4800 Erskine Rd, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9758433,-76.931665
+95,3,"8302 49th Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9923608,-76.9279166
+96,3,"7500 Sweetbriar Dr, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9823233,-76.9152963
+97,4,"8310 48th Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9931401,-76.9306876
+98,4,"8805 36th Ave, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,39.0003184,-76.9478389
+99,4,"9203 St Andrews Place, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,39.006748,-76.946983
+100,4,"3535 Marlbrough Way, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,39.0107924,-76.9490881
+101,4,"9201 Davidson St, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,39.0079161,-76.9507558
+102,1,"4908 Hollywood Rd, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,39.0108709,-76.9236091
+103,1,"5106 Lackawanna St, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0114926,-76.9180111
+104,1,"9735 53rd Ave, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,39.0130267,-76.9130591
+105,1,"5014 Hollywood Rd, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,39.0101486,-76.919439
+106,1,"4904 Erie St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.005673,-76.9252625
+107,1,"5001 Kenesaw St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0085014,-76.9224344
+108,2,"8323 Rhode Island Ave, College Park MD",Pin Oak,2024,Pin Oak,H,F,1,0.798,14.68,38.9917361,-76.9272574
+109,2,"5012 Roanoke Place, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.9951548,-76.9246965
+110,2,"4707 Indian La, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.0084665,-76.9282046
+111,3,"6903 Carleton Terrace, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9744872,-76.9371053
+112,3,"4619 Fordham Rd, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,38.9759387,-76.9337173
+113,3,"4811 Harvard Rd, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9772385,-76.9303795
+114,3,"8302 49th Ave, College Park MD",Red Maple,2024,Red Maple,H,M,1,0.798,9.909,38.9923608,-76.9279166
+115,3,"7500 Sweetbriar Dr, College Park MD", Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,38.9823233,-76.9152963
+116,4,"8310 48th Ave, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,38.9931401,-76.9306876
+117,4,"8805 36th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0003184,-76.9478389
+118,1,"9609 50th Place, College Park MD",Beech,2024,,H,M,1,0.798,9.909,39.0108982,-76.9197947
+119,1,"9540 Rhode Island Ave, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0103381,-76.9227698
+120,1,"5121 Kennebunk Terr, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,39.0085336,-76.917083
+121,2,"4811 Ruatan St, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9959994,-76.9287871
+122,3,"7510 Wellesley Dr, College Park MD",Redbud,2024,,H,M,1,0.798,9.909,38.9831913,-76.9145765
+123,3,"4611 Drexel Rd, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,38.9751922,-76.9345214
+124,4,"3739 Marlbrough Way, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0070392,-76.9535082
+125,4,"7321 Radcliffe Dr, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9790421,-76.9153971
+127,1,"9609 50th Place, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0108982,-76.9197947
+128,1,"9540 Rhode Island Ave, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0103381,-76.9227698
+129,2,"4811 Ruatan St, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,38.9959994,-76.9287871
+130,3,"7510 Wellesley Dr, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,38.9831913,-76.9145765
+131,4,"3739 Marlbrough Way, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0070392,-76.9535082
+132,4,"7321 Radcliffe Dr, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9790421,-76.9153971
+133,1,"8611 Rhode Island Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9954897,-76.9260637
+134,1,"8709 48th Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9970737,-76.9291846
+135,1,"9629 52nd Ave, College Park MD",Redbud,2024,,H,M,1,0.798,9.909,39.0100295,-76.9151745
+136,1,"6917 Carleton Ter, College Park MD",Apple Serviceberry,2024,,H,M,1,0.798,9.909,38.9756166,-76.9367447
+137,1,"9621 Narragansett Pkwy, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0096809,-76.9163326
+138,1,"7314 Edmonston Rd, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,38.9780601,-76.9134981
+139,1,"5108 Navahoe St, College Park MD",Apple Serviceberry,2024,,H,M,1,0.798,9.909,38.9902708,-76.9264981
+140,1,"4713 Berwyn Rd, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9954209,-76.9303855
+141,1,"9116 Saint Andrews Pl, College Park MD",Apple Serviceberry,2024,,H,M,1,0.798,9.909,39.005792,-76.9479915
+142,1,"5025 Kenesaw St, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,39.0080673,-76.9199085
+143,1,"5004 Fox St, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,39.0061905,-76.9222871
+144,1,"4908 Fox St, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0067152,-76.9246376
+145,1,"9522 51st Ave, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,39.0093428,-76.9196626
+146,1,"5011 Navahoe St, College Park MD",Apple Serviceberry,2024,,H,M,1,0.798,9.909,38.9894154,-76.9276591
+147,1,"8302 Potomac Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9910144,-76.9275181
+148,1,"4817 Osage St, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9918444,-76.9293859
+149,1,"9211 Wofford Ln, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,39.0091368,-76.9503318
+150,1,"9011 Saint Andrews Pl, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,39.003423,-76.9499239
+151,1,"8803 Rhode Island Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9974015,-76.9254893
+152,1,"6909 Dartmouth Ave, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,38.9747482,-76.9319276
+153,1,"3730 Marlbrough Way, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,39.0080676,-76.9539342
+154,1,"8615 Rhode Island Ave, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.00770305,-76.94979550628942
+155,1,"4710 Mangum Rd, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,39.0151957,-76.9250131
+156,1,"9519 48th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.009782,-76.9265608
+157,1,"9400 49th Ave, College Park MD",Honey Locust,2024,,H,M,1,0.798,9.909,39.0070591,-76.9256485
+158,1,"9531 48th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0106002,-76.9263201
+159,1,"5012 Roanoke Pl, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9951548,-76.9246965
+160,1,"4708 Kiernan Rd, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.0149601,-76.9311484
+161,1,"9105 Autoville Dr, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,39.0041707,-76.9318261
+162,1,"4811 Osage St, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9922126,-76.9298135
+163,2,"4912 Indian Ln, College Park MD",Sweetbay Magnolia,2024,,H,M,1,0.798,9.909,39.0068728,-76.9240343
+164,2,"4822 Erie St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0059656,-76.9259366
+165,2,"8806 36th Ave, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,39.0003565,-76.9481947
+166,2,"9603 51st Ave, College Park MD",Honey Locust,2024,,H,M,1,0.798,9.909,39.0102656,-76.9189476
+167,2,"9713 51st Pl, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.012065,-76.9162812
+168,2,"9743 53rd Avenue, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,39.013768,-76.913055
+169,2,"8717 36th Ave, College Park MD",Redbud,2024,,H,M,1,0.798,9.909,38.9991662,-76.9477464
+170,2,"	5026 Laguna Rd, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.0124115,-76.9190261
+171,2,"9524 49th Ave, College Park MD",Honey Locust,2024,,H,M,1,0.798,9.909,39.0101325,-76.9248699
+172,2,"	9726 52nd Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0128063,-76.9146186
+173,2,"4806 Indian Ln, College Park MD",Bald Cypress,2024,,H,M,1,0.798,9.909,39.0087781,-76.9267685
+174,2,"	4516 Albion Road, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9720904,-76.9357553
+175,3,"4610 Amherst Rd, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,38.9730608,-76.9347076
+176,3,"5020 Geronimo St, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.006646,-76.9210823
+177,3,"5018 Roanoke Pl, College Park MD",Bald Cypress,2024,,H,M,1,0.798,9.909,38.9952491,-76.9263953
+178,3,"9224 Saint Andrew’s Pl, College Park MD",Tulip Tree,2024,,H,M,1,0.798,9.909,39.0065389,-76.9465289
+179,3,"	4912 Blackfoot Rd, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,39.0009398,-76.9254089
+180,3,"5 Austin Ct, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0161039,-76.9330248
+181,3,"5000 Geronimo St, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0069317,-76.9229432
+182,3,"	9608 Autoville Dr, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,39.013351,-76.9318491
+183,3,"7329 Radcliffe Dr, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9801711,-76.9148291
+184,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
+185,4,"9802 53rd Ave, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.0147062,-76.9131231
+186,4,"	7207 Dartmouth Ave, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.97735,-76.9311876
+187,4,"7015 Wake Forest Dr, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9773033,-76.9358539
+188,4,"7406 Edmonston Rd, College Park MD",Tulip Tree,2024,,H,M,1,0.798,9.909,38.9810011,-76.9125529
+189,4,"	5012 Hollywood Rd, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.0101972,-76.9196947
+190,4,"5002 Indian Ln, College Park MD",American Linden,2024,,H,M,1,0.798,9.909,39.0058171,-76.9225851
+191,4,"3535 Duke St, College Park MD",Bald Cypress,2024,,H,M,1,0.798,9.909,39.00444,-76.9479005
+192,1,"8611 Rhode Island Ave, College Park MD",Redbud,2024,,H,M,1,0.798,9.909,38.9954897,-76.9260637
+193,1,"8611 Rhode Island Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9954897,-76.9260637
+194,1,"8709 48th Ave, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,38.9970737,-76.9291846
+195,1,"6917 Carleton Ter, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,38.9756166,-76.9367447
+196,1,"6917 Carleton Ter, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,38.9756166,-76.9367447
+197,1,"6917 Carleton Ter, College Park MD",Redbud,2024,,H,M,1,0.798,9.909,38.9756166,-76.9367447
+198,1,"9621 Narragansett Pkwy, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0096809,-76.9163326
+199,1,"7314 Edmonston Rd, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,38.9780601,-76.9134981
+200,1,"7314 Edmonston Rd, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9780601,-76.9134981
+201,1,"5108 Navahoe St, College Park MD",Freeman Maple,2024,,H,M,1,0.798,9.909,38.9902708,-76.9264981
+202,1,"4713 Berwyn Rd, College Park MD",Sweetgum,2024,Sweetgum,H,F,1,0.798,14.68,38.9954209,-76.9303855
+203,1,"5025 Kenesaw St, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0080673,-76.9199085
+204,1,"5025 Kenesaw St, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0080673,-76.9199085
+205,1,"4908 Fox St, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,39.0067152,-76.9246376
+206,1,"5011 Navahoe St, College Park MD",Dogwood,2024,,H,M,1,0.798,9.909,38.9894154,-76.9276591
+207,1,"4817 Osage St, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,38.9918444,-76.9293859
+208,1,"8803 Rhode Island Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9974015,-76.9254893
+209,1,"9400 49th Ave, College Park MD",Tulip Tree,2024,,H,M,1,0.798,9.909,39.0070591,-76.9256485
+210,1,"9531 48th Ave, College Park MD",Swamp White Oak,2024,Swamp White Oak,H,M,1,0.798,9.909,39.0106002,-76.9263201
+211,1,"4811 Osage St, College Park MD",Honey Locust,2024,,H,M,1,0.798,9.909,38.9922126,-76.9298135
+212,2,"8806 36th Ave, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,39.0003565,-76.9481947
+213,2,"9603 51st Ave, College Park MD",Persimmon,2024,,H,M,1,0.798,9.909,39.0102656,-76.9189476
+214,2,"9713 51st Pl, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,39.012065,-76.9162812
+215,2,"8717 36th Ave, College Park MD",Southern Magnolia,2024,Southern Magnolia,H,M,1,0.798,9.909,38.9991662,-76.9477464
+216,2,"	9726 52nd Ave, College Park MD",American Holly,2024,American Holly,H,S,1,0.798,5.872,39.0128063,-76.9146186
+217,2,"	9726 52nd Ave, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0128063,-76.9146186
+218,2,"	4516 Albion Road, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9720904,-76.9357553
+219,2,"	4516 Albion Road, College Park MD",Loblolly Pine,2024,Loblolly Pine,C,F,1,0.798,8.074,38.9720904,-76.9357553
+220,3,"4610 Amherst Rd, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,38.9730608,-76.9347076
+221,3,"5020 Geronimo St, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,39.006646,-76.9210823
+222,3,"5018 Roanoke Pl, College Park MD",Bald Cypress,2024,,H,M,1,0.798,9.909,38.9952491,-76.9263953
+223,3,"5 Austin Ct, College Park MD",River Birch,2024,River Birch,H,M,1,0.798,9.909,39.0161039,-76.9330248
+224,3,"7329 Radcliffe Dr, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,38.9801711,-76.9148291
+225,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
+226,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
+227,3,"7520 Edmonston Rd, College Park MD",Eastern Red Cedar,2024,Eastern Red Cedar,C,M,1,0.798,5.505,38.9831819,-76.9106137
+228,4,"9802 53rd Ave, College Park MD",Honey Locust,2024,,H,M,1,0.798,9.909,39.0147062,-76.9131231
+229,4,"9802 53rd Ave, College Park MD",Nuttall Oak,2024,,H,M,1,0.798,9.909,39.0147062,-76.9131231
+230,4,"	7207 Dartmouth Ave, College Park MD",Tulip Tree,2024,,H,M,1,0.798,9.909,38.97735,-76.9311876
+231,4,"7015 Wake Forest Dr, College Park MD",American Elm,2024,American Elm,H,F,1,0.798,14.68,38.9773033,-76.9358539
+232,1,"9406 52nd Ave, College Park MD",Arborvitae,2025,,H,M,0,0.873,6.973,39.0065466,-76.9183299
+233,1,"5202 Lackawanna St, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0108838,-76.9144518
+234,1,"9037 49th Pl, College Park MD",Ns Holly,2025,,H,M,0,0.873,6.973,39.0025414,-76.925287
+235,1,"4712 Nantucket Rd, College Park MD",American  Elm,2025,,H,M,0,0.873,6.973,39.0169243,-76.9251201
+236,1,"5022 Geronimo St, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0066084,-76.9209152
+237,1,"4812 Blackfoot Rd, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0013138,-76.9278213
+238,1,"5003 Laguna Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0123957,-76.9211867
+239,1,"5015 Lackawanna St, College Park MD",Ns Holly,2025,,H,M,0,0.873,6.973,39.0112815,-76.9190963
+240,1,"5000 Geronimo St, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,39.0069317,-76.9229432
+241,1,"9514 51st Ave, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0087715,-76.9198168
+242,1,"9608 Autoville Dr, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.013351,-76.9318491
+243,1,"4807 Delaware St, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,39.0050527,-76.9282291
+244,1,"4912 Indian La, College Park MD",Pawpaw,2025,,H,M,0,0.873,6.973,39.0068728,-76.9240343
+245,1,"5014 Laguna Rd, College Park MD",Pawpaw,2025,,H,M,0,0.873,6.973,39.0125806,-76.9200595
+246,1,"4912 Blackfoot Rd, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,39.0009398,-76.9254089
+247,1,"5026 Laguna Rd, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0124115,-76.9190261
+248,1,"4915 Lackawanna St, College Park MD",Freeman Maple,2025,,H,M,0,0.873,6.973,39.011803,-76.9223702
+249,1,"9100 51st Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0016746,-76.922303
+250,2,"9014 Rhode Island Ave, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,39.000275,-76.9259608
+251,2,"4803 Ruatan St, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,38.9961658,-76.9295711
+252,2,"8314 Potomac Ave, College Park MD",American  Elm,2025,,H,M,0,0.873,6.973,38.9915472,-76.9266396
+253,2,"5108 Navahoe St, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,38.9902708,-76.9264981
+254,2,"5100 Pierce Ave, College Park MD",Ns Holly,2025,,H,M,0,0.873,6.973,38.9876059,-76.9265443
+255,3,"4511 Amherst Rd, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,38.9727015,-76.9363884
+256,3,"6903 Carleton Terrace, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9744872,-76.9371053
+257,3,"6908 Wake Forest Dr, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,38.9751782,-76.9362749
+258,3,"7014 Wake Forest Dr, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,38.9769015,-76.9363839
+259,3,"7512 Creighton Dr, College Park MD",Hackberry,2025,Hackberry,H,F,0,0.873,9.909,38.9831705,-76.9119395
+260,3,"5805 Chestnut Hill Rd, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,38.984156,-76.9137088
+261,3,"7516 Wellesley Dr, College Park MD",Ns Holly,2025,,H,M,0,0.873,6.973,38.983441,-76.9151394
+262,4,"8705 38th Ave, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,38.9992858,-76.9461769
+263,4,"3535 Duke St, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.00444,-76.9479005
+264,4,"3501 Wofford Ct, College Park MD",Willow Oak,2025,Willow Oak,H,M,0,0.873,6.973,39.0083439,-76.9499388
+265,1,"9406 52nd Ave, College Park MD",Arborvitae,2025,,H,M,0,0.873,6.973,39.0065466,-76.9183299
+266,1,"9037 49th Pl, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0025414,-76.925287
+267,1,"5022 Geronimo St, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0066084,-76.9209152
+268,1,"4812 Blackfoot Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0013138,-76.9278213
+269,1,"5003 Laguna Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0123957,-76.9211867
+270,1,"5015 Lackawanna St, College Park MD",Arborvitae,2025,,H,M,0,0.873,6.973,39.0112815,-76.9190963
+271,1,"4807 Delaware St, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,39.0050527,-76.9282291
+272,2,"9014 Rhode Island Ave, College Park MD",Bur Oak,2025,Bur Oak,H,S,0,0.873,4.771,39.000275,-76.9259608
+273,2,"4803 Ruatan St, College Park MD",American Elm,2025,American Elm,H,F,0,0.873,9.909,38.9961658,-76.9295711
+274,2,"8314 Potomac Ave, College Park MD",Sycamore,2025,Sycamore,H,F,0,0.873,9.909,38.9915472,-76.9266396
+275,2,"5100 Pierce Ave, College Park MD",Ns Holly,2025,,H,M,0,0.873,6.973,38.9876059,-76.9265443
+276,2,"5100 Pierce Ave, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,38.9876059,-76.9265443
+277,2,"5100 Pierce Ave, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,38.9876059,-76.9265443
+278,3,"6903 Carleton Terrace, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9744872,-76.9371053
+279,3,"7512 Creighton Dr, College Park MD",American Basswood,2025,American Basswood,H,F,0,0.873,9.909,38.9831705,-76.9119395
+280,3,"5805 Chestnut Hill Rd, College Park MD",Tulip Poplar,2025,,H,M,0,0.873,6.973,38.984156,-76.9137088
+281,3,"7516 Wellesley Dr, College Park MD",Arborvitae,2025,,H,M,0,0.873,6.973,38.983441,-76.9151394
+282,Disctrict 1,"9400 49th Ave, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0070591,-76.9256485
+283,Disctrict 1,"9605 52nd Ave, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0081188,-76.9166068
+284,Disctrict 3,"5012 Roanoke Pl, College Park MD",Apple Serviceberry,2025,,H,M,0,0.873,6.973,38.9951548,-76.9246965
+285,Disctrict 2,"8619 Rhode Island Ave, College Park MD",Ironwood (Hophornbeam),2025,,H,M,0,0.873,6.973,38.9958613,-76.925941
+286,Disctrict 1,"9505 52nd Ave, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,39.0071779,-76.9172954
+287,Disctrict 1,"9800 47th Ave, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,39.0155154,-76.9328421
+288,Disctrict 3,"4615 Clemson Rd, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,38.9743517,-76.9342391
+289,Disctrict 3,"6900 Wake Forest Dr, College Park MD",Nellie Stevens Holly,2025,,H,M,0,0.873,6.973,38.9743289,-76.9364096
+290,Disctrict 1,"5815 Bryn Mawr Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9851421,-76.9130058
+291,Disctrict 1,"7520 Creighton Dr, College Park MD",Loblolly Pine,2025,Loblolly Pine,C,F,0,0.873,5.138,38.9839564,-76.9118442
+292,Disctrict 1,"9727 53rd Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.012495,-76.9132263
+293,Disctrict 1,"5113 Lackawanna St, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0108971,-76.9169529
+294,Disctrict 3,"4613 Amherst Rd, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,38.9725962,-76.9345377
+295,Disctrict 3,"7329 Radcliffe Dr, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,38.9801711,-76.9148291
+296,Disctrict 1,"9708 53rd Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0114136,-76.9140192
+297,Disctrict 1,"5807 Bryn Mawr Rd, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9848628,-76.9139885
+298,Disctrict 1,"4806 Erie St, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0064869,-76.9276364
+299,Disctrict 3,"4609 Guilford Rd, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,38.977095,-76.9346174
+300,Disctrict 1,"4822 Erie St, College Park MD",Yellowood,2025,,H,M,0,0.873,6.973,39.0059656,-76.9259366
+301,Disctrict 3,"5904 Chestnut Hill Rd, College Park MD",Hackberry,2025,Hackberry,H,F,0,0.873,9.909,38.9845906,-76.9119123
+302,Disctrict 3,"7508 Citadel Dr, College Park MD",Apple Serviceberry,2025,,H,M,0,0.873,6.973,38.9835239,-76.9129121
+303,Disctrict 2,"5018 Roanoke Place, College Park MD",Bald Cypress,2025,,H,M,0,0.873,6.973,38.9952491,-76.9263953
+304,Disctrict 4,"9237 Limestone Pl, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0090052,-76.9485978
+305,Disctrict 3,"4614 Amherst Rd, College Park MD",Yellowood,2025,,H,M,0,0.873,6.973,38.9730473,-76.9341956
+306,Disctrict 4,"9246 Limestone Pl, College Park MD",Freeman Maple,2025,,H,M,0,0.873,6.973,39.0096992,-76.9498827
+307,Disctrict 1,"9012 Autoville Drive, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0023501,-76.9327135
+308,Disctrict 1,"5037 Laguna Rd, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0118949,-76.9182313
+309,Disctrict 1,"4718 Muskogee St, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0140171,-76.9253197
+310,Disctrict 1,"9712 53rd Ave, College Park MD",Northern Catalpa,2025,Northern Catalpa,H,F,0,0.873,9.909,39.0116884,-76.9139448
+311,Disctrict 3,"4710 College Ave, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,38.9807701,-76.9304468
+312,Disctrict 1,"5121 Kenesaw St, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0076884,-76.9179343
+313,Disctrict 1,"8608 34th Ave, College Park MD",Ironwood (Hophornbeam),2025,,H,M,0,0.873,6.973,38.9984335,-76.9496631
+314,Disctrict 1,"4802 Iroquois St, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,39.0090538,-76.925533
+315,Disctrict 2,"9100 51st Ave, College Park MD",Freeman Maple,2025,,H,M,0,0.873,6.973,39.0016746,-76.922303
+316,Disctrict 3,"7510 Columbia Ave, College Park MD",Southern Magnolia,2025,Southern Magnolia,H,M,0,0.873,6.973,38.9810718,-76.9285963
+317,Disctrict 3,"6909 Carleton Terrace, College Park MD",Freeman Maple,2025,,H,M,0,0.873,6.973,38.9749972,-76.9366705
+318,Disctrict 2,"9052 Rhode Island Ave, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0021495,-76.9249579
+319,Disctrict 1,"5117 Iroquois Street, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0070223,-76.9183505
+320,Disctrict 1,"4927 Hollywood Rd, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0101606,-76.9217359
+321,Disctrict 4,"9211 Wofford Lane, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0091368,-76.9503318
+322,Disctrict 4,"9238 St Andrews Pl, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0074149,-76.9509604
+323,Disctrict 1,"5223 Edgewood Rd, College Park MD",Yellowood,2025,,H,M,0,0.873,6.973,39.0158976,-76.9130671
+324,Disctrict 3,"6815 Dartmouth Avenue, College Park MD",Sweetbay Magnolia,2025,,H,M,0,0.873,6.973,38.974048,-76.9321308
+325,Disctrict 1,"5006 Hollywood Rd, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0103205,-76.9205809
+326,Disctrict 1,"9724 53rd Avenue, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0125101,-76.9137219
+327,Disctrict 2,"8403 Patuxent Ave, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,38.9922661,-76.9269819
+328,Disctrict 1,"4906 Laguna rd, College Park MD",Ironwood (Hophornbeam),2025,,H,M,0,0.873,6.973,39.0131106,-76.9231427
+329,Disctrict 2,"9032 49th Pl, College Park MD",American Hornbeam,2025,,H,M,0,0.873,6.973,39.0023367,-76.9258735
+330,Disctrict 1,"4902 Lackawanna St, College Park MD",Redbud,2025,,H,M,0,0.873,6.973,39.0124146,-76.9238162
+331,Disctrict 1,"4704 Mangum Rd, College Park MD",Red Maple,2025,Red Maple,H,M,0,0.873,6.973,39.0154068,-76.9255967
+332,Disctrict 1,"5001 Indian Ln, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,39.0055519,-76.9228199
+333,Disctrict 4,"3433 Duke St, College Park MD",Swamp White Oak,2025,Swamp White Oak,H,M,0,0.873,6.973,39.0028411,-76.9491154
+334,Disctrict 1,"4809 Indian Ln, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,39.0084174,-76.9271266
+335,Disctrict 1,"5105 Edgewood Rd, College Park MD",Nellie Stevens Holly,2025,,H,M,0,0.873,6.973,39.0158533,-76.9163658
+336,Disctrict 4,"8717 36th Ave, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,38.9991662,-76.9477464
+337,Disctrict 3,"6803 Rhode Island Ave, College Park MD",River Birch,2025,River Birch,H,M,0,0.873,6.973,38.973451,-76.9334284
+338,Disctrict 3,"7307 Baylor Ave, College Park MD",Overcup Oak,2025,Overcup Oak,H,S,0,0.873,4.771,38.9777054,-76.9143061
+339,Disctrict 2,"8700 49th Ave, College Park MD",Holly,2025,,H,M,0,0.873,6.973,38.9961706,-76.9278259
+340,Disctrict 3,"7400 Dartmouth Ave, College Park MD",American Hornbeam,2025,,H,M,0,0.873,6.973,38.9795065,-76.9310206
+341,Disctrict 1,"9727 53rd Ave, College Park MD",Brackens,2025,,H,M,0,0.873,6.973,39.012495,-76.9132263
+342,Disctrict 1,"4802 Iroquois St, College Park MD",Brackens,2025,,H,M,0,0.873,6.973,39.0090538,-76.925533
